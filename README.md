@@ -1,5 +1,5 @@
 ### Introduction to Scala for 2017 Scavannah
-Scala Taiwan Meetup - https://www.meetup.com/Scavannah-scala/
+Scala Nairobi Meetup - https://www.meetup.com/Scavannah-scala/
 
 #### Topic of Slides
 Location of Slides - src/main/resources 
